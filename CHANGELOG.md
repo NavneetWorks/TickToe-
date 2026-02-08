@@ -1,1 +1,1 @@
-<!-- change 4: feat: add game board component -->
+<!-- change 5: fix: board reset on new game -->
