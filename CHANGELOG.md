@@ -1,1 +1,1 @@
-<!-- change 5: fix: board reset on new game -->
+<!-- change 6: fix: draw condition not triggering -->
