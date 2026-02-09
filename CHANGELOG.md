@@ -1,1 +1,1 @@
-<!-- change 6: fix: draw condition not triggering -->
+<!-- change 7: refactor: clean up board state -->
