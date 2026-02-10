@@ -1,1 +1,1 @@
-<!-- change 9: refactor: move socket handlers -->
+<!-- change 10: fix: sync game state between players -->
