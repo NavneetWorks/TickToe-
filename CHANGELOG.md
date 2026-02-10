@@ -1,1 +1,1 @@
-<!-- change 7: refactor: clean up board state -->
+<!-- change 8: feat: add game board component -->
