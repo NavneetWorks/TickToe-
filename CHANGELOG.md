@@ -1,1 +1,1 @@
-<!-- change 8: feat: add game board component -->
+<!-- change 9: refactor: move socket handlers -->
