@@ -1,1 +1,1 @@
-<!-- change 12: fix: draw condition not triggering -->
+<!-- change 13: feat: add score tracking -->
