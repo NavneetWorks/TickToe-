@@ -1,1 +1,1 @@
-<!-- change 11: feat: add game board component -->
+<!-- change 12: fix: draw condition not triggering -->
