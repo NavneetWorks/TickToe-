@@ -1,1 +1,1 @@
-<!-- change 10: fix: sync game state between players -->
+<!-- change 11: feat: add game board component -->
