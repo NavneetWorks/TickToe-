@@ -1,1 +1,1 @@
-<!-- change 13: feat: add score tracking -->
+<!-- change 14: feat: add socket.io game events -->
