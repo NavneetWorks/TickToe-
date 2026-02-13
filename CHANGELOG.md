@@ -1,1 +1,1 @@
-<!-- change 14: feat: add socket.io game events -->
+<!-- change 15: fix: handle player disconnect -->
