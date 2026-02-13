@@ -1,1 +1,1 @@
-<!-- change 15: fix: handle player disconnect -->
+<!-- change 16: refactor: clean up board state -->
