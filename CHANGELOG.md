@@ -1,1 +1,1 @@
-<!-- change 17: fix: sync game state between players -->
+<!-- change 18: feat: add room creation flow -->
