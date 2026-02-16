@@ -1,1 +1,1 @@
-<!-- change 21: feat: add game board component -->
+<!-- change 22: fix: handle player disconnect -->
