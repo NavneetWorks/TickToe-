@@ -1,1 +1,1 @@
-<!-- change 22: fix: handle player disconnect -->
+<!-- change 23: fix: draw condition not triggering -->
