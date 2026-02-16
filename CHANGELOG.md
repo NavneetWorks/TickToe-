@@ -1,1 +1,1 @@
-<!-- change 20: chore: update dependencies -->
+<!-- change 21: feat: add game board component -->
