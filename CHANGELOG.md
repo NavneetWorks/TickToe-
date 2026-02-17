@@ -1,1 +1,1 @@
-<!-- change 23: fix: draw condition not triggering -->
+<!-- change 24: fix: draw condition not triggering -->
