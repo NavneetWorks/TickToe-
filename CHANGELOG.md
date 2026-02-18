@@ -1,1 +1,1 @@
-<!-- change 25: fix: sync game state between players -->
+<!-- change 26: feat: implement win condition logic -->
