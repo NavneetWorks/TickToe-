@@ -1,1 +1,1 @@
-<!-- change 30: refactor: separate game logic -->
+<!-- change 31: fix: board reset on new game -->
