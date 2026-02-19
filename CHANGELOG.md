@@ -1,1 +1,1 @@
-<!-- change 28: fix: player turn switching bug -->
+<!-- change 29: refactor: clean up board state -->
