@@ -1,1 +1,1 @@
-<!-- change 29: refactor: clean up board state -->
+<!-- change 30: refactor: separate game logic -->
