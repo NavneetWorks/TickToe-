@@ -1,1 +1,1 @@
-<!-- change 31: fix: board reset on new game -->
+<!-- change 32: refactor: clean up board state -->
